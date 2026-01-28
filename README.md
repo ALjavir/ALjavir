@@ -45,8 +45,5 @@ Offline Flutter music player with background playback, media scanning, and organ
 
 ---
 
-⭐ *Always open to learning and building better mobile experiences.*
+⭐ *Always open to learning and building better mobile experiences.👉 𝘊𝘩𝘦𝘤𝘬 𝘱𝘪𝘯𝘯𝘦𝘥 𝘳𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘪𝘦𝘴 𝘣𝘦𝘭𝘰𝘸 👇*
 
----
-
-👉 Check pinned repositories below 👇
