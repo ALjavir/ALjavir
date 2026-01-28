@@ -43,7 +43,6 @@ Offline Flutter music player with background playback, media scanning, and organ
 
 ## 🌍 Connect With Me
 - 📧 Email: flutter.x.tonmoy@gmail.com
-- 💼 LinkedIn: *(add when ready)*
 - 🌐 GitHub: https://github.com/ALjavir
 
 ---
