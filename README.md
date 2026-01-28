@@ -38,7 +38,7 @@ Full-featured shopping app with authentication, product filtering, and real-time
 Offline Flutter music player with background playback, media scanning, and organized music library.
 
 👉 Check pinned repositories below 👇
-
+https://github.com/ALjavir/sonare
 ---
 
 ## 🌍 Connect With Me
