@@ -37,8 +37,6 @@ Full-featured shopping app with authentication, product filtering, and real-time
 🔹 **Lossless Music Player**  
 Offline Flutter music player with background playback, media scanning, and organized music library.
 
-👉 Check pinned repositories below 👇
-https://github.com/ALjavir/sonare
 ---
 
 ## 🌍 Connect With Me
@@ -48,3 +46,7 @@ https://github.com/ALjavir/sonare
 ---
 
 ⭐ *Always open to learning and building better mobile experiences.*
+
+---
+
+👉 Check pinned repositories below 👇
